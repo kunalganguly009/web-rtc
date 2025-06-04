@@ -89,5 +89,5 @@ To deploy this project run
 
 
 ## 🔗 Links
-[![github VMEET](https://img.shields.io/badge/VMEET-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vmeet-project.herokuapp.com/)
+[![github VMEET](https://img.shields.io/badge/VMEET-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vmeet-2bfo.onrender.com)
 [![github VMEET](https://img.shields.io/badge/Video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1b65EBrdsnFoJ6cFLmeq1NTGQ02wdErVA/view?usp=sharing)
